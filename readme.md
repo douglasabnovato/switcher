@@ -76,8 +76,6 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 #### 🎨 Como deve ficar a página ao final?
  
- Neste desafio você deverá utilizar a API do themoviedb.org para exibir um filme aleatório sempre que clicar em Encontrar Filme.
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
   <img alt="switcher tela inicial" title="#switcher" src="./.github/preview.gif">
 </p> 
