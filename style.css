@@ -37,13 +37,13 @@ body {
     position: relative;
     display: flex;
     flex-direction: row;
+    justify-content: center;
     width: 100vw;
     padding: 60px 10px;
     text-align: center;
     background: var(--header-bg);
     color: var(--header-tx);
     font-size: 30px;
-    justify-content: center;
 }
 
 .header .content-header {
