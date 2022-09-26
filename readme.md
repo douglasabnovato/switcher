@@ -46,8 +46,8 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🚀 Requisitos Principais 
 
-- [ ] 1. Alterar o tema da página ao clicar no toggle;
-- [ ] 2. Ter uma transição entre um ícone e outro;
+- [x] 1. Alterar o tema da página ao clicar no toggle;
+- [x] 2. Ter uma transição entre um ícone e outro;
 
 ##### 🚀 Requisitos Extras
 
