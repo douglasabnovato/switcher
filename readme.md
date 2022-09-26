@@ -58,7 +58,7 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🎨 Cores 
 
-- [ ] Usar as variáveis
+- [x] Usar as variáveis
 
 ```css
 :root {
@@ -88,7 +88,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 
 #### 📅 Tarefas
 
-- [ ] Tarefas  
+- [x] Posicionar o toggle no centro do centro  
 
 #### 📅 Telas
 
