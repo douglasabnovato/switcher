@@ -46,19 +46,19 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🚀 Requisitos Principais 
 
-- [ ] 1. Alterar o tema da página ao clicar no toggle;
-- [ ] 2. Ter uma transição entre um ícone e outro;
+- [x] 1. Alterar o tema da página ao clicar no toggle;
+- [x] 2. Ter uma transição entre um ícone e outro;
 
 ##### 🚀 Requisitos Extras
 
-- [ ] 3. Salvando o tema no Local Storage;
-- [ ] 4. Adicionar textos e alterar a cor conforme o tema alterne entre ligth e dark; 
+- [x] 3. Salvando o tema no Local Storage;
+- [x] 4. Adicionar textos e alterar a cor conforme o tema alterne entre ligth e dark; 
 
 #### 🎨 Style Guide
 
 ##### 🎨 Cores 
 
-- [ ] Usar as variáveis
+- [x] Usar as variáveis
 
 ```css
 :root {
@@ -70,14 +70,12 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🎨 Fonte 
 
-- [ ] font-family: Poppins 
-- [ ] font-weight: 300, 400 e 500
-- [ ] Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
+- [x] font-family: Poppins 
+- [x] font-weight: 300, 400 e 500
+- [x] Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
 
 #### 🎨 Como deve ficar a página ao final?
  
- Neste desafio você deverá utilizar a API do themoviedb.org para exibir um filme aleatório sempre que clicar em Encontrar Filme.
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;"> 
   <img alt="switcher tela inicial" title="#switcher" src="./.github/preview.gif">
 </p> 
@@ -90,7 +88,8 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 
 #### 📅 Tarefas
 
-- [ ] Tarefas  
+- [x] Posicionar o toggle no centro do centro  
+- [ ] Responsividade
 
 #### 📅 Telas
 
