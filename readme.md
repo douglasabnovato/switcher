@@ -51,8 +51,8 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🚀 Requisitos Extras
 
-- [ ] 3. Salvando o tema no Local Storage;
-- [ ] 4. Adicionar textos e alterar a cor conforme o tema alterne entre ligth e dark; 
+- [x] 3. Salvando o tema no Local Storage;
+- [x] 4. Adicionar textos e alterar a cor conforme o tema alterne entre ligth e dark; 
 
 #### 🎨 Style Guide
 
