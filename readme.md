@@ -70,9 +70,9 @@ Nesse desafio você deverá desenvolver uma página que contenha um toggle para 
 
 ##### 🎨 Fonte 
 
-- [ ] font-family: Poppins 
-- [ ] font-weight: 300, 400 e 500
-- [ ] Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
+- [x] font-family: Poppins 
+- [x] font-weight: 300, 400 e 500
+- [x] Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
 
 #### 🎨 Como deve ficar a página ao final?
  
