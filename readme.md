@@ -88,8 +88,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 
 #### 📅 Tarefas
 
-- [x] Posicionar o toggle no centro do centro  
-- [ ] Responsividade
+- [x] Posicionar o toggle no centro do centro
 
 #### 📅 Telas
 
@@ -101,8 +100,8 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 </p>
 
 ## 🚀 Próximo passo 
-
-- [ ] tarefas
+  
+- [ ] Responsividade
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
  
