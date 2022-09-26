@@ -81,14 +81,6 @@ body {
     transition: .7s;
 }
 
-input:checked+.slider {
-    background-color: var(--label);
-}
-
-input:focus+.slider {
-    box-shadow: 0 0 1px var(--label);
-}
-
 input:checked+.slider:before {
     -webkit-transform: translateX(68px);
     -ms-transform: translateX(68px);
